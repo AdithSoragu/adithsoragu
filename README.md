@@ -54,11 +54,5 @@ GitHub Stats:
 ----------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithsoragu&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithsoragu&layout=compact&theme=dark&hide_progress=false" height="170" alt="Top Langs" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithsoragu&theme=dark" alt="GitHub Streak" />
 </p>
