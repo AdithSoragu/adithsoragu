@@ -24,7 +24,7 @@ I have hands-on experience in Python, MATLAB, SQL, Power BI, Verilog, and digita
 Social
 -------------------------------------------------------------------------------------------------------------------------
 <p align="left">
-<a href="www.linkedin.com/in/adith-soragu-92561b291" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/adith-soragu-92561b291/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:adithsoragu6@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
 </p>
 
