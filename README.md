@@ -54,5 +54,5 @@ GitHub Stats:
 ----------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithsoragu&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithsoragu&theme=dark&cache_seconds=1800" alt="GitHub Streak" />
 </p>
