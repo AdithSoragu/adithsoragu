@@ -60,3 +60,10 @@ GitHub Stats:
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithsoragu&theme=dark&cache_seconds=1800" alt="GitHub Streak" />
 </p>
+
+![Adith's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adithsoragu&show_icons=true&theme=dark&count_private=true)
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adithsoragu&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithsoragu&theme=dark" alt="GitHub Streak" />
+</p>
