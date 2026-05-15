@@ -56,3 +56,7 @@ GitHub Stats:
 
 ![Adith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdithSoragu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=AdithSoragu&theme=tokyonight)
+
+
+
