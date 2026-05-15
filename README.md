@@ -59,7 +59,7 @@ GitHub Stats:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdithSoragu&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdithSoragu&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 <p align="center">
