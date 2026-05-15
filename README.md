@@ -58,9 +58,6 @@ GitHub Stats:
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdithSoragu&show_icons=true&theme=tokyonight" height="180em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdithSoragu&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AdithSoragu&theme=tokyonight" height="180em"/>
