@@ -73,3 +73,7 @@ GitHub Stats:
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdithSoragu/adithsoragu/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+# 📈 Contribution Graph
+
+[![Adith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdithSoragu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
