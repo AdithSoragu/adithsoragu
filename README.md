@@ -77,4 +77,6 @@ GitHub Stats:
 
 # 📈 Contribution Graph
 
-[![Adith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdithSoragu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdithSoragu&theme=tokyo-night&hide_border=true"/>
+</p>
