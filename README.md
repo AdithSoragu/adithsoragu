@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Electronics+and+Communication+Engineer;VLSI+and+Embedded+Systems+Enthusiast;Verilog+%7C+SystemVerilog+%7C+FPGA;RTL+Design+and+Digital+Design" />
+</p>
+
 💫 About Me:
 ---------------------------------------------------------------------------------------------------------------------------
 I am a student specializing in Electronics and Communication Engineering with a passion for building desktops, maintaining laptops, and repairing damaged ones. Proficient in coding with C, C++, and Verilog HDL, I have a keen interest in VLSI and embedded systems. Through various projects, I have honed my skills in the electronic world. My goal is to secure a position in VLSI or embedded systems in a reputable company. Let's connect to delve deeper into the electronic realm. Follow my page for updates.
