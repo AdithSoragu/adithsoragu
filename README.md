@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adith%20Soragu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=VLSI%20|%20Embedded%20Systems%20|%20Digital%20Design&descAlignY=55"/>
 </p>
-
 💫 About Me:
 ---------------------------------------------------------------------------------------------------------------------------
 I am a student specializing in Electronics and Communication Engineering with a passion for building desktops, maintaining laptops, and repairing damaged ones. Proficient in coding with C, C++, and Verilog HDL, I have a keen interest in VLSI and embedded systems. Through various projects, I have honed my skills in the electronic world. My goal is to secure a position in VLSI or embedded systems in a reputable company. Let's connect to delve deeper into the electronic realm. Follow my page for updates.
