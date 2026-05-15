@@ -58,5 +58,5 @@ GitHub Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdithSoragu&theme=tokyonight)
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithSoragu&layout=compact&theme=tokyonight&cache_seconds=86400)
 
