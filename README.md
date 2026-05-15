@@ -54,9 +54,5 @@ GitHub Stats:
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-[![Adith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdithSoragu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+![Adith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdithSoragu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdithSoragu&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithSoragu&layout=compact&theme=tokyonight&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
