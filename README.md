@@ -17,7 +17,7 @@ I have hands-on experience in Python, MATLAB, SQL, Power BI, Verilog, and digita
 🚀 **What I’m Working On**
 
 * VLSI and FPGA-based system design projects
-* DLDO and power-efficient circuit design
+* MIPS Processor using Vivdo
 * Data visualization and analytics projects using Power BI
 * System-level problem solving and debugging
 
