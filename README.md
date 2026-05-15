@@ -54,9 +54,9 @@ GitHub Stats:
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-![Adith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdithSoragu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdithSoragu&show_icons=true&theme=tokyonight" height="180em"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AdithSoragu&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithSoragu&layout=compact&theme=tokyonight&cache_seconds=86400)
 
