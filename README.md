@@ -63,3 +63,6 @@ GitHub Stats:
   <img src="https://streak-stats.demolab.com?user=AdithSoragu&theme=tokyonight" height="180em"/>
 </p>
 
+# 🐍 Contribution Graph
+
+![snake gif](https://github.com/AdithSoragu/AdithSoragu/blob/output/github-contribution-grid-snake.svg)
