@@ -63,3 +63,15 @@ GitHub Stats:
   <img src="https://streak-stats.demolab.com?user=AdithSoragu&theme=tokyonight" height="180em"/>
 </p>
 
+
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdithSoragu&show_icons=true&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdithSoragu&theme=tokyonight" height="180em"/>
+</p>
