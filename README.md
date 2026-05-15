@@ -54,8 +54,5 @@ GitHub Stats:
 ----------------------------------------------------------------------------------------------------------------------------
 
 
+[![Adith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdithSoragu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adithsoragu&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithsoragu&theme=dark" alt="GitHub Streak" />
-</p>
