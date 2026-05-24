@@ -70,7 +70,6 @@ GitHub Stats:
 
 # 🐍 Contribution Graph
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdithSoragu/adithsoragu/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
